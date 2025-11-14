@@ -44,7 +44,7 @@ function render(variables = {}) {
               variables.twitter ? variables.twitter : "layla_nasser"
             }"><i class="fab fa-twitter"></i></a></li>
             <li><a href="https://github.com/${
-              variables.github ? variables.gihub : "todolayla-git"
+              variables.github ? variables.github : "todolayla-git"
             }"><i class="fab fa-github"></i></a></li>
             <li><a href="https://linkedin.com/school/${
               variables.linkedin ? variables.linkedin : "/in/laylanasser"
